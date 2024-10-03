@@ -8,7 +8,7 @@ Este herramienta es un miniproyector personal de una aplicacion grafica en Pytho
 
 
 ## Funcionalidades
-- **1. Convertir PDF a WORD**: Seleccionamos un archivo PDF y se convierte en un documento DOCX
+**1. Convertir PDF a WORD**: Seleccionamos un archivo PDF y se convierte en un documento DOCX
 - **2. Unir PDF**: Seleccionamos dos archivos y obtenemos uno solo<!-- Revisar **** -->
 - **3. Dividir PDF**: Seleccionamos un archivo y lo divimos como queramos<!-- Revisar **** -->
 - **4. Comprimir PDF** <!-- Revisar **** -->
