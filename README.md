@@ -9,32 +9,32 @@ Este herramienta es un miniproyector personal de una aplicacion grafica en Pytho
 
 ## Funcionalidades
 **1. Convertir PDF a WORD**: Seleccionamos un archivo PDF y se convierte en un documento DOCX
-- **2. Unir PDF**: Seleccionamos dos archivos y obtenemos uno solo<!-- Revisar **** -->
-- **3. Dividir PDF**: Seleccionamos un archivo y lo divimos como queramos<!-- Revisar **** -->
-- **4. Comprimir PDF** <!-- Revisar **** -->
-- **5. PDF a PowerPoint** <!-- Revisar **** -->
-- **6. PDF a Excel** <!-- No funciona **** -->
-- **7. Word a PDF** <!-- No funciona **** -->
-- **8. PowerPoint a PDF** <!-- No funciona **** -->
-- **9. Excel a PDF** <!-- No funciona **** -->
-- **10. Editar PDF** <!-- No funciona **** -->
-- **11. PDF a JPG** <!-- No funciona **** -->
-- **12. JPG a PDF** <!-- No funciona **** -->
-- **13. Firmar PDF** <!-- Revisar **** -->
-- **14. Marca de agua**  <!-- No funciona **** -->
-- **15. Rotar PDF** <!-- No funciona **** -->
-- **16. Html a PDF** <!-- No funciona **** -->
-- **17. Desbloquear PDF** <!-- No funciona **** -->
-- **18. Proteger PDF** <!-- No funciona **** -->
-- **19. Ordenar PDF** <!-- No funciona **** -->
-- **20. PDF a PDF/a** <!-- No funciona **** -->
-- **21. Repara PDF** <!-- No funciona **** -->
-- **22. Enumerar páginas** <!-- No funciona **** -->
-- **23. Escanea a PDF** <!-- No funciona **** -->
-- **24. OCR PDF** <!-- Revisar **** -->
-- **25. Comparar a PDF** <!-- No funciona **** -->
+**2. Unir PDF**: Seleccionamos dos archivos y obtenemos uno solo<!-- Revisar **** -->
+**3. Dividir PDF**: Seleccionamos un archivo y lo divimos como queramos<!-- Revisar **** -->
+**4. Comprimir PDF** <!-- Revisar **** -->
+**5. PDF a PowerPoint** <!-- Revisar **** -->
+**6. PDF a Excel** <!-- No funciona **** -->
+**7. Word a PDF** <!-- No funciona **** -->
+**8. PowerPoint a PDF** <!-- No funciona **** -->
+**9. Excel a PDF** <!-- No funciona **** -->
+**10. Editar PDF** <!-- No funciona **** -->
+**11. PDF a JPG** <!-- No funciona **** -->
+**12. JPG a PDF** <!-- No funciona **** -->
+**13. Firmar PDF** <!-- Revisar **** -->
+**14. Marca de agua**  <!-- No funciona **** -->
+**15. Rotar PDF** <!-- No funciona **** -->
+**16. Html a PDF** <!-- No funciona **** -->
+**17. Desbloquear PDF** <!-- No funciona **** -->
+**18. Proteger PDF** <!-- No funciona **** -->
+**19. Ordenar PDF** <!-- No funciona **** -->
+**20. PDF a PDF/a** <!-- No funciona **** -->
+**21. Repara PDF** <!-- No funciona **** -->
+**22. Enumerar páginas** <!-- No funciona **** -->
+**23. Escanea a PDF** <!-- No funciona **** -->
+**24. OCR PDF** <!-- Revisar **** -->
+**25. Comparar a PDF** <!-- No funciona **** -->
 
-- **Mas funcionalidades proximaente**
+**MAS FUNCIONALIDADES PROXIMAMENTE!!**
 <!-- - **Convertir PDF a PowerPoint** -->
 <!-- - **** -->
 
