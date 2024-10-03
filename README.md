@@ -69,9 +69,8 @@ Este herramienta es un miniproyector personal de una aplicacion grafica en Pytho
 
 ### Proximas funcionalidades
 
-- *Estas son las funcionalidades que estoy desarrollando y en las siguientes actualizaciones se iran implementando:*
+*Estas son las funcionalidades que estoy desarrollando y en las siguientes actualizaciones se iran implementando:*
 
-- 
 
 - PDF a Excel
 - Word a PDF
