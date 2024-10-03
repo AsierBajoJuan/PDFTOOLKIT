@@ -4,13 +4,13 @@ Herramienta grafica para manejo de PDFs
 
 ![Versión](https://img.shields.io/badge/versión-0.1-blue.svg)
 
-Este herramienta es un miniproyector personal de una aplicacion grafica en Python que permite usar utilidades muy nevesarias de ofimatica de una oficina sin tener los datos expuestos a internet y el trabajo con los ficheros es en local.
+Este herramienta es un miniproyector personal de una aplicacion grafica en Python que permite usar utilidades muy necesarias de ofimatica de una oficina sin tener los datos expuestos a internet y el trabajo con los ficheros es en local.
 
 
 ## Funcionalidades
 - **1. Convertir PDF a WORD**: Seleccionamos un archivo PDF y se convierte en un documento DOCX
-- **2. Unir PDF**: <!-- Revisar **** -->
-- **3. Dividir PDF**: <!-- Revisar **** -->
+- **2. Unir PDF**: Seleccionamos dos archivos y obtenemos uno solo<!-- Revisar **** -->
+- **3. Dividir PDF**: Seleccionamos un archivo y lo divimos como queramos<!-- Revisar **** -->
 - **4. Comprimir PDF** <!-- Revisar **** -->
 - **5. PDF a PowerPoint** <!-- Revisar **** -->
 - **6. PDF a Excel** <!-- No funciona **** -->
