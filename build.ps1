@@ -3,6 +3,8 @@ $ErrorActionPreference = "Stop"
 $projectRoot = Split-Path -Parent $MyInvocation.MyCommand.Path
 $python = Join-Path $projectRoot ".venv\Scripts\python.exe"
 $pythonRoot = (& $python -c "import sys; print(sys.base_prefix)").Trim()
+$version = (& $python -c "from version import __version__; print(__version__)").Trim()
+$applicationName = "PDFToolKit-$version"
 
 if (-not (Test-Path $python)) {
     throw "No existe el entorno virtual .venv. Créalo antes de compilar."
@@ -14,7 +16,7 @@ if (-not (Test-Path $python)) {
     --clean `
     --windowed `
     --onedir `
-    --name PDFToolKit `
+    --name $applicationName `
     --collect-all fitz `
     --hidden-import win32com.client `
     --hidden-import tkinter `
@@ -27,4 +29,4 @@ if (-not (Test-Path $python)) {
     --add-data "$(Join-Path $projectRoot 'img');img" `
     (Join-Path $projectRoot "PdfToolKit.py")
 
-Write-Host "Ejecutable generado en dist\PDFToolKit\PDFToolKit.exe"
+Write-Host "Ejecutable generado en dist\$applicationName\$applicationName.exe"

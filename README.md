@@ -120,10 +120,10 @@ python -m pytest -q
 El ejecutable se genera en:
 
 ```text
-dist\PDFToolKit\PDFToolKit.exe
+dist\PDFToolKit-1.0.0\PDFToolKit-1.0.0.exe
 ```
 
-El proceso incluye los iconos, Tcl/Tk y las dependencias necesarias para ejecutar la interfaz fuera del entorno virtual.
+El nombre se obtiene automáticamente desde [version.py](version.py). El proceso incluye los iconos, Tcl/Tk y las dependencias necesarias para ejecutar la interfaz fuera del entorno virtual.
 
 ## Limitaciones conocidas
 

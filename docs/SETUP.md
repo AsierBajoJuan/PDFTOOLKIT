@@ -70,7 +70,9 @@ Para generar el ejecutable distribuible:
 .\build.ps1
 ```
 
-El resultado queda en `dist\PDFToolKit\PDFToolKit.exe`. El script incluye los
+El resultado queda en `dist\PDFToolKit-1.0.0\PDFToolKit-1.0.0.exe`. El nombre se
+obtiene automáticamente desde `version.py`, por lo que cambiará al preparar
+una nueva versión. El script incluye los
 iconos y los archivos Tcl/Tk necesarios para que la interfaz funcione fuera del
 entorno virtual.
 
