@@ -18,7 +18,12 @@ if (-not (Test-Path $python)) {
     --collect-all fitz `
     --hidden-import win32com.client `
     --hidden-import tkinter `
+    --hidden-import _tkinter `
+    --add-data "$(Join-Path $pythonRoot 'Lib\tkinter');tkinter" `
     --add-data "$(Join-Path $pythonRoot 'tcl');tcl" `
+    --add-binary "$(Join-Path $pythonRoot 'DLLs\_tkinter.pyd');." `
+    --add-binary "$(Join-Path $pythonRoot 'DLLs\tcl86t.dll');." `
+    --add-binary "$(Join-Path $pythonRoot 'DLLs\tk86t.dll');." `
     --add-data "$(Join-Path $projectRoot 'img');img" `
     (Join-Path $projectRoot "PdfToolKit.py")
 
