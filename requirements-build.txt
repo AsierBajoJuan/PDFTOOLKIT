@@ -1,0 +1,2 @@
+# Herramienta para generar el ejecutable Windows.
+pyinstaller>=6.9

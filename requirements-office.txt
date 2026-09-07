@@ -1,0 +1,3 @@
+# Dependencia opcional para convertir usando Microsoft Office mediante COM.
+# LibreOffice no necesita este paquete.
+pywin32>=306

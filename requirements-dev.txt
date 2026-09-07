@@ -1,0 +1,2 @@
+# Herramientas para comprobar el proyecto y ejecutar tests
+pytest==8.3.2
